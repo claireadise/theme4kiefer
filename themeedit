@@ -1,3 +1,5 @@
+<!-- my edits to this theme include: removed title, title box, and subtitle centered description; removed updates and projects sections; slightly edited the navigation links to include my ao3 without a redirect. you can delete this line entirely or change it to your own ao3 url (or any other url you like) with ctrl+F "ao3" and editing the link. added a tiled background. if you copy this code raw, it will default to using the same purple clouds background i have. if you want your background to tile, then ctrl+F "sadhost" and replace the url between the single quotes with a link of the background you want. i got mine from https://sadgrl.online/webmastery/downloads/tiledbgs.html by right clicking and selecting "copy image link". if you want a non-tiled background then let me know and i can do a little experimenting to see what works -->
+
 <!DOCTYPE html PUBLIC>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
